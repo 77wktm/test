@@ -1,0 +1,9 @@
+fun main(){
+	
+	println("A")
+	println("B")
+	println("C")
+	println("D")
+	println("E")
+
+}
